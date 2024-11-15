@@ -1,0 +1,1120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\redblackbsttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\redblackbsttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\dynamicprogramming\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\dynamicprogramming\\fibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\findprimenumbersenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\findprimenumbersenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\countingsortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\countingsortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\combsortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\combsortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\eggdropproblemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\eggdropproblemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\factorialtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\factorialtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\findmaxvaluetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\findmaxvaluetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\queuelinkedlist\\queuelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\queuelinkedlist\\queuelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\linkedlist\\breakcyclelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\linkedlist\\breakcyclelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\heapsort\\heapsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\heapsort\\heapsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\hashtablebinarysearchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\hashtablebinarysearchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\hashtable\\hashtablebinarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\hashtable\\hashtablebinarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\dsaenjoyment.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\dsaenjoyment.unittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\dynamicprogramming\\knapsack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\dynamicprogramming\\knapsack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\dynamicprogramming\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\dynamicprogramming\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\dynamicprogramming\\eggdropproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\dynamicprogramming\\eggdropproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\devideandconquer\\findmaxvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\devideandconquer\\findmaxvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\countingsort\\countingsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\countingsort\\countingsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\combsort\\combsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\combsort\\combsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\cocktailsortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\cocktailsortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\cocktailsort\\cocktailsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\cocktailsort\\cocktailsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\bucketsortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\bucketsortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\bucketsort\\bucketsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\bucketsort\\bucketsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\bubblesortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\bubblesortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\bubblesort\\bubblesortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\bubblesort\\bubblesortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\bitonicsortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\bitonicsortenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\bitonicsort\\bitonicsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\bitonicsort\\bitonicsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\binarysearchtree\\redblackbstenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\binarysearchtree\\redblackbstenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\perfectnumberenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\perfectnumberenjoymenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyment.unittests\\binarysearchtreetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1072497-6AC2-4F15-B520-7726E6A26D0E}|DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj|solutionrelative:dsaenjoyment.unittests\\binarysearchtreetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\binarysearchtree\\perfectnumberenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\binarysearchtree\\perfectnumberenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\binarysearchtree\\binarysearchtreekeyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\binarysearchtree\\binarysearchtreekeyvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\arrays\\findprimenumbersenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\arrays\\findprimenumbersenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\timsort\\timsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\timsort\\timsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\shellsort\\shellsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\shellsort\\shellsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\stackarray\\stackarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\stackarray\\stackarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\stacklinkedlist\\stacklinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\stacklinkedlist\\stacklinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\selectionsort\\selectionsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\selectionsort\\selectionsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\search\\substring\\searchbruteforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\search\\substring\\searchbruteforce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\search\\substring\\searchsubstringkmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\search\\substring\\searchsubstringkmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\search\\substring\\searchsubstringrabinkarp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\search\\substring\\searchsubstringrabinkarp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\search\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\search\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\search\\linearsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\search\\linearsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\search\\sequentialsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\search\\sequentialsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\recursion\\greatestcommondenominator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\recursion\\greatestcommondenominator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\recursion\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\recursion\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\radixsort\\radixsort_2d_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\radixsort\\radixsort_2d_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\radixsort\\radixsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\radixsort\\radixsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\quicksort\\threepivotpartition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\quicksort\\threepivotpartition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\quicksort\\quicksortpartition3way.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\quicksort\\quicksortpartition3way.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\quicksort\\quicksortlomuto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\quicksort\\quicksortlomuto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\quicksort\\quicksorthoare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\quicksort\\quicksorthoare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\quicksort\\quicksortbentleymclroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\quicksort\\quicksortbentleymclroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\quicksort\\dualpivotquicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\quicksort\\dualpivotquicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\mergesort\\mergesortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\mergesort\\mergesortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\linkedlist\\detectcycleinlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\linkedlist\\detectcycleinlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\linkedlist\\checklinkedlistispalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\linkedlist\\checklinkedlistispalindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\linkedlist\\detectcyclestartnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\linkedlist\\detectcyclestartnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\linkedlist\\linkedlistenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\linkedlist\\linkedlistenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\insertionsort\\insertionsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\insertionsort\\insertionsortenjoyment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\hashtable\\hashtablesepchaining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\hashtable\\hashtablesepchaining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|c:\\users\\dishant.thumbar\\desktop\\personal project enjoyments\\datastructuresandalogithmsenjoyments\\datastructuresandalogithmsenjoyments\\dsaenjoyments.consoleapp\\hashtable\\hashtablelinearprobing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1AE9223-5F9F-4B76-B456-443D4BA56825}|DSAEnjoyments.ConsoleApp\\DSAEnjoyments.ConsoleApp.csproj|solutionrelative:dsaenjoyments.consoleapp\\hashtable\\hashtablelinearprobing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedBlackBSTTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\RedBlackBSTTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\RedBlackBSTTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\RedBlackBSTTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\RedBlackBSTTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:11:18.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:40:49.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CombSortEnjoymentTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\CombSortEnjoymentTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\CombSortEnjoymentTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\CombSortEnjoymentTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\CombSortEnjoymentTests.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAqwHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:21:15.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EggDropProblemTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\EggDropProblemTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\EggDropProblemTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\EggDropProblemTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\EggDropProblemTests.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAmwHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:24:57.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Fibonacci.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Fibonacci.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Fibonacci.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Fibonacci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:04:38.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindPrimeNumbersEnjoymentTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\FindPrimeNumbersEnjoymentTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\FindPrimeNumbersEnjoymentTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\FindPrimeNumbersEnjoymentTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\FindPrimeNumbersEnjoymentTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:42:24.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FactorialTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\FactorialTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\FactorialTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\FactorialTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\FactorialTests.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAwFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:26:04.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FindMaxValueTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\FindMaxValueTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\FindMaxValueTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\FindMaxValueTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\FindMaxValueTests.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:23:34.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountingSortEnjoymentTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\CountingSortEnjoymentTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\CountingSortEnjoymentTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\CountingSortEnjoymentTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\CountingSortEnjoymentTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:22:40.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QueueLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QueueLinkedList\\QueueLinkedList.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\QueueLinkedList\\QueueLinkedList.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QueueLinkedList\\QueueLinkedList.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\QueueLinkedList\\QueueLinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:17:26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BreakCycleLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\LinkedList\\BreakCycleLinkedList.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\LinkedList\\BreakCycleLinkedList.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\LinkedList\\BreakCycleLinkedList.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\LinkedList\\BreakCycleLinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:15:41.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HeapSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\HeapSort\\HeapSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\HeapSort\\HeapSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\HeapSort\\HeapSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\HeapSort\\HeapSortEnjoyment.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwEwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:09:13.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HashTableBinarySearchTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\HashTableBinarySearchTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\HashTableBinarySearchTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\HashTableBinarySearchTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\HashTableBinarySearchTests.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAuwPcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:27:58.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HashTableBinarySearch.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\HashTable\\HashTableBinarySearch.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\HashTable\\HashTableBinarySearch.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\HashTable\\HashTableBinarySearch.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\HashTable\\HashTableBinarySearch.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAIwEAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:06:32.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DSAEnjoyment.UnitTests",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\DSAEnjoyment.UnitTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T09:42:08.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Factorial.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Factorial.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Factorial.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Factorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:04:17.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Knapsack.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Knapsack.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Knapsack.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Knapsack.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\DynamicProgramming\\Knapsack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:06:01.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EggDropProblem.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\DynamicProgramming\\EggDropProblem.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\DynamicProgramming\\EggDropProblem.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\DynamicProgramming\\EggDropProblem.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\DynamicProgramming\\EggDropProblem.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:03:31.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FindMaxValue.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\DevideAndConquer\\FindMaxValue.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\DevideAndConquer\\FindMaxValue.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\DevideAndConquer\\FindMaxValue.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\DevideAndConquer\\FindMaxValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:02:58.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CountingSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\CountingSort\\CountingSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\CountingSort\\CountingSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\CountingSort\\CountingSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\CountingSort\\CountingSortEnjoyment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:02:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CombSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\CombSort\\CombSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\CombSort\\CombSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\CombSort\\CombSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\CombSort\\CombSortEnjoyment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:01:38.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CocktailSortEnjoymentTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\CocktailSortEnjoymentTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\CocktailSortEnjoymentTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\CocktailSortEnjoymentTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\CocktailSortEnjoymentTests.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAmwH8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:19:52.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CocktailSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\CocktailSort\\CocktailSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\CocktailSort\\CocktailSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\CocktailSort\\CocktailSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\CocktailSort\\CocktailSortEnjoyment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:01:03.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BucketSortEnjoymentTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\BucketSortEnjoymentTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\BucketSortEnjoymentTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\BucketSortEnjoymentTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\BucketSortEnjoymentTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:17:34.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BucketSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BucketSort\\BucketSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\BucketSort\\BucketSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BucketSort\\BucketSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\BucketSort\\BucketSortEnjoyment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:00:32.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BubbleSortEnjoymentTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\BubbleSortEnjoymentTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\BubbleSortEnjoymentTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\BubbleSortEnjoymentTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\BubbleSortEnjoymentTests.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAmwHEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:15:59.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BubbleSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BubbleSort\\BubbleSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\BubbleSort\\BubbleSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BubbleSort\\BubbleSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\BubbleSort\\BubbleSortEnjoyment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:00:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BitonicSortEnjoymentTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\BitonicSortEnjoymentTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\BitonicSortEnjoymentTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\BitonicSortEnjoymentTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\BitonicSortEnjoymentTests.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAqwJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:14:41.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RedBlackBSTEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BinarySearchTree\\RedBlackBSTEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\BinarySearchTree\\RedBlackBSTEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BinarySearchTree\\RedBlackBSTEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\BinarySearchTree\\RedBlackBSTEnjoyment.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAmwCkBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:58:20.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PerfectNumberEnjoymentTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\PerfectNumberEnjoymentTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\PerfectNumberEnjoymentTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\PerfectNumberEnjoymentTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\PerfectNumberEnjoymentTests.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:59:15.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BitonicSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BitonicSort\\BitonicSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\BitonicSort\\BitonicSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BitonicSort\\BitonicSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\BitonicSort\\BitonicSortEnjoyment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:59:24.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BinarySearchTreeTests.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\BinarySearchTreeTests.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyment.UnitTests\\BinarySearchTreeTests.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyment.UnitTests\\BinarySearchTreeTests.cs",
+              "RelativeToolTip": "DSAEnjoyment.UnitTests\\BinarySearchTreeTests.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAqwGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:55:35.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PerfectNumberEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BinarySearchTree\\PerfectNumberEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\BinarySearchTree\\PerfectNumberEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BinarySearchTree\\PerfectNumberEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\BinarySearchTree\\PerfectNumberEnjoyment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:56:29.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BinarySearchTreeKeyValue.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BinarySearchTree\\BinarySearchTreeKeyValue.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\BinarySearchTree\\BinarySearchTreeKeyValue.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\BinarySearchTree\\BinarySearchTreeKeyValue.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\BinarySearchTree\\BinarySearchTreeKeyValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:53:09.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TimSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\TimSort\\TimSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\TimSort\\TimSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\TimSort\\TimSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\TimSort\\TimSortEnjoyment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:31:57.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StackArray.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\StackArray\\StackArray.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\StackArray\\StackArray.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\StackArray\\StackArray.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\StackArray\\StackArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:30:40.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ShellSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\ShellSort\\ShellSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\ShellSort\\ShellSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\ShellSort\\ShellSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\ShellSort\\ShellSortEnjoyment.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:29:31.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FindPrimeNumbersEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Arrays\\FindPrimeNumbersEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\Arrays\\FindPrimeNumbersEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Arrays\\FindPrimeNumbersEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\Arrays\\FindPrimeNumbersEnjoyment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:51:12.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StackLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\StackLinkedList\\StackLinkedList.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\StackLinkedList\\StackLinkedList.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\StackLinkedList\\StackLinkedList.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\StackLinkedList\\StackLinkedList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:31:19.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SelectionSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\SelectionSort\\SelectionSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\SelectionSort\\SelectionSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\SelectionSort\\SelectionSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\SelectionSort\\SelectionSortEnjoyment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:28:59.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\Search\\BinarySearch.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\BinarySearch.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\Search\\BinarySearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:27:07.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SearchSubstringRabinKarp.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchSubstringRabinKarp.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchSubstringRabinKarp.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchSubstringRabinKarp.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchSubstringRabinKarp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:26:49.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LinearSearch.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\LinearSearch.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\Search\\LinearSearch.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\LinearSearch.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\Search\\LinearSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:27:36.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SearchSubstringKMP.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchSubstringKMP.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchSubstringKMP.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchSubstringKMP.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchSubstringKMP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:26:24.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SearchBruteForce.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchBruteForce.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchBruteForce.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchBruteForce.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\Search\\Substring\\SearchBruteForce.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:26:03.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SequentialSearch.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\SequentialSearch.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\Search\\SequentialSearch.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Search\\SequentialSearch.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\Search\\SequentialSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:28:01.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GreatestCommonDenominator.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Recursion\\GreatestCommonDenominator.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\Recursion\\GreatestCommonDenominator.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Recursion\\GreatestCommonDenominator.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\Recursion\\GreatestCommonDenominator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:24:47.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Recursion\\Factorial.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\Recursion\\Factorial.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\Recursion\\Factorial.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\Recursion\\Factorial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:24:17.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RadixSort_2D_Array.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\RadixSort\\RadixSort_2D_Array.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\RadixSort\\RadixSort_2D_Array.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\RadixSort\\RadixSort_2D_Array.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\RadixSort\\RadixSort_2D_Array.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:23:36.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RadixSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\RadixSort\\RadixSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\RadixSort\\RadixSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\RadixSort\\RadixSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\RadixSort\\RadixSortEnjoyment.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAowGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:22:49.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ThreePivotPartition.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\ThreePivotPartition.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\QuickSort\\ThreePivotPartition.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\ThreePivotPartition.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\QuickSort\\ThreePivotPartition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:22:17.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "QuickSortPartition3Way.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortPartition3Way.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortPartition3Way.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortPartition3Way.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortPartition3Way.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:21:53.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "QuickSortLomuto.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortLomuto.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortLomuto.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortLomuto.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortLomuto.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwCUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:21:05.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "QuickSortHoare.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortHoare.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortHoare.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortHoare.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortHoare.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:20:15.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "QuickSortBentleyMclroy.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortBentleyMclroy.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortBentleyMclroy.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortBentleyMclroy.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\QuickSort\\QuickSortBentleyMclroy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:19:49.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DualPivotQuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\DualPivotQuickSort.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\QuickSort\\DualPivotQuickSort.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\QuickSort\\DualPivotQuickSort.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\QuickSort\\DualPivotQuickSort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:18:35.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MergeSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\MergeSort\\MergeSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\MergeSort\\MergeSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\MergeSort\\MergeSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\MergeSort\\MergeSortEnjoyment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:16:32.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DetectCycleInLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\LinkedList\\DetectCycleInLinkedList.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\LinkedList\\DetectCycleInLinkedList.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\LinkedList\\DetectCycleInLinkedList.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\LinkedList\\DetectCycleInLinkedList.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:14:01.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DetectCycleStartNode.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\LinkedList\\DetectCycleStartNode.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\LinkedList\\DetectCycleStartNode.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\LinkedList\\DetectCycleStartNode.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\LinkedList\\DetectCycleStartNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:13:07.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CheckLinkedListIsPalindrome.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\LinkedList\\CheckLinkedListIsPalindrome.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\LinkedList\\CheckLinkedListIsPalindrome.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\LinkedList\\CheckLinkedListIsPalindrome.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\LinkedList\\CheckLinkedListIsPalindrome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:12:06.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LinkedListEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\LinkedList\\LinkedListEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\LinkedList\\LinkedListEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\LinkedList\\LinkedListEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\LinkedList\\LinkedListEnjoyment.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAcwO4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:10:59.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "InsertionSortEnjoyment.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\InsertionSort\\InsertionSortEnjoyment.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\InsertionSort\\InsertionSortEnjoyment.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\InsertionSort\\InsertionSortEnjoyment.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\InsertionSort\\InsertionSortEnjoyment.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:09:52.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "HashTableSepChaining.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\HashTable\\HashTableSepChaining.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\HashTable\\HashTableSepChaining.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\HashTable\\HashTableSepChaining.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\HashTable\\HashTableSepChaining.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAzwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:08:15.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "HashTableLinearProbing.cs",
+              "DocumentMoniker": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\HashTable\\HashTableLinearProbing.cs",
+              "RelativeDocumentMoniker": "DSAEnjoyments.ConsoleApp\\HashTable\\HashTableLinearProbing.cs",
+              "ToolTip": "C:\\Users\\dishant.thumbar\\Desktop\\Personal Project Enjoyments\\DataStructuresAndAlogithmsEnjoyments\\DataStructuresAndAlogithmsEnjoyments\\DSAEnjoyments.ConsoleApp\\HashTable\\HashTableLinearProbing.cs",
+              "RelativeToolTip": "DSAEnjoyments.ConsoleApp\\HashTable\\HashTableLinearProbing.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:07:38.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
